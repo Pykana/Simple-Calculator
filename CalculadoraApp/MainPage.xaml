@@ -7,10 +7,10 @@
    
         <!--  Estilo base -->
         <Style x:Key="BaseCalculatorStyle" TargetType="Button">
-            <Setter Property="WidthRequest" Value="80"/>
-            <Setter Property="HeightRequest" Value="80"/>
-            <Setter Property="CornerRadius" Value="40"/>
-            <Setter Property="FontSize" Value="32"/>
+            <!--<Setter Property="WidthRequest" Value="80"/>
+            <Setter Property="HeightRequest" Value="80"/>-->
+            <Setter Property="CornerRadius" Value="50"/>
+            <Setter Property="FontSize" Value="Medium"/>
             <Setter Property="FontAttributes" Value="Bold"/>
             <Setter Property="Margin" Value="5"/>
         </Style>
